@@ -1,0 +1,2 @@
+# r=7 k=9 s=3 t=8 exp=9/3 |R|=84 vars=3767 clauses=56162 enc=0.23s
+RESULT UNSAT  r=7 k=9 s=3 t=8 exp=9/3  secs=8957.61   [no width-3 pattern on 9 positions]

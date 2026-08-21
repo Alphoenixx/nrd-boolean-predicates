@@ -1,0 +1,10 @@
+bin_test
+bin_testx
+bin_sweep
+bin_est
+bin_search
+bin_analyze
+bin/
+*.exe
+*.o
+__pycache__/

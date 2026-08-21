@@ -1,0 +1,11 @@
+=== end-to-end realisation of all four gadgets ===
+N=11 n=132 constraints=462 dup-var-constraints=0 own-missing=0 foreign-violations=0
+realised-exponent=1.2566 target=2.5000 verdict=PROVED-NONREDUNDANT
+N=11 n=110 constraints=462 dup-var-constraints=0 own-missing=0 foreign-violations=0
+realised-exponent=1.3053 target=2.5000 verdict=PROVED-NONREDUNDANT
+N=11 n=88 constraints=462 dup-var-constraints=0 own-missing=0 foreign-violations=0
+realised-exponent=1.3704 target=2.5000 verdict=PROVED-NONREDUNDANT
+N=11 n=186 constraints=462 dup-var-constraints=0 own-missing=0 foreign-violations=0
+realised-exponent=1.1741 target=2.5000 verdict=PROVED-NONREDUNDANT
+N=11 n=135 constraints=165 dup-var-constraints=0 own-missing=0 foreign-violations=0
+realised-exponent=1.0409 target=2.6667 verdict=PROVED-NONREDUNDANT
